@@ -1,6 +1,6 @@
 # Bruno Funes
 
-**Software Developer** 💻
+**Frontend Developer** 💻
 
 - **Email:** brunoo.funes@hotmail.com 📧
 - **LinkedIn:** [linkedin.com/in/brunofunes](https://linkedin.com/in/brunofunes) 🔗
