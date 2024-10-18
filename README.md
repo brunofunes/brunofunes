@@ -12,6 +12,7 @@
 - HTML ✨
 - CSS 🎨
 - JavaScript ⚡
+- TypeScript 🌀
 - Node.js 🚀
 - React ⚛️
 - MongoDB 🍃
